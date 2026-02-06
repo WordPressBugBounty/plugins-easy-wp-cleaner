@@ -4,7 +4,7 @@
 Plugin Name: Easy WP Cleaner
 Plugin URI: https://www.brainvine.tech
 Description: Easy WP Cleaner is user friendly plugin to clean unnecessary data from WordPress database and also allows you to optimize your WordPress database.
-Version: 2.1
+Version: 2.2
 Author: Nikunj Soni
 Author URI: https://www.brainvine.tech
 Text Domain: Easy-WP-Cleaner

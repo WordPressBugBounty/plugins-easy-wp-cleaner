@@ -3,8 +3,8 @@ Contributors: Nikunj Soni
 Tags: Easy WP Cleaner,clean,cleaner,database,cache,options,revision,revisions,comments,commentmeta,posts,postmeta,post revisions,delete revisions,draft,auto draft,moderated,spam,trash,relationships,transient,transient feed,optimize,optimize database,admin,mysql,phpMyAdmin
 License: GPLv2
 Requires at least: 3.7
-Tested up to: 6.5.3
-Stable tag: 2.1
+Tested up to: 6.8.3
+Stable tag: 2.2
 
 Easy WP Cleaner is user friendly plugin to clean unnecessary data from WordPress database and also allows you to optimize your WordPress database.
 
@@ -44,6 +44,9 @@ Usage :
 3. "Dashboard"->"Easy WP Cleaner"
 
 == Changelog ==
+
+= 2.2 =
+* Tested and compatible with WordPress 6.8.3
 
 = 2.1 =
 * Remove use of deprecated function
@@ -85,6 +88,9 @@ Usage :
 * Initial release
 
 == Upgrade Notice ==
+
+= 2.2 =
+* Tested and compatible with WordPress 6.8.3
 
 = 2.1 =
 * Remove use of deprecated function
